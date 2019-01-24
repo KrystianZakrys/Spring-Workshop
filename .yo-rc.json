@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.kz.miab",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "workshop",
+        "packageName": "com.kz.miab",
+        "packageFolder": "com/kz/miab",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MGUzYzcyMjY1ZjY1NTcyMWJkNTBhNDE5MDAxYWI1OGZkMTUxNDM5ODJiNjJhMjM1ZWU3NmVhM2RmYjYzODRkZWRlZTg0NzA5ZDgxODY0OTNjZWYzZjg4YjM4MGJkODM3ZTk4YzYxZTk1OTFjMjJhY2VmNGEyNjkxMjM4MGI0YmY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
